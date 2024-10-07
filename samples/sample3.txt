@@ -1,0 +1,58 @@
+1.0 OBJECTIVE 
+To lay down the procedure for Operation of Compression Machine 27 stations (Double Rotary Type). 
+
+2.0 SCOPE 
+This SOP shall be applicable for the operation of Compression Machine 27 stations (Double Rotary Type) in Compression area at Production department. 
+
+3.0 RESPONSIBILITY 
+3.1 Execution: Operator 
+3.2 Checking: Production Pharmacist & Above 
+
+4.0 ACCOUNTABILITY 
+HOD-Production/ Assigned Designee 
+
+5.0 PROCEDURE 
+5.1 PRECAUTIONS 
+5.1.1 Ensure that electrical supply is disconnected before starting machine setting. 
+5.1.2 The machine should not be operated without guards in the correct position. 
+5.1.3 Proper lubrication must be maintained throughout the compression process. 
+5.1.4 Hopper should be covered immediately after loading of granules. 
+5.1.5 Container of lubricated granules and compressed tablets should be kept covered and duly labeled. 
+5.1.6 During compression containers of lubricated granules should be used serially as per the container numbers on the label. 
+5.2 SETTING PROCEDURE FOR ROUND PUNCHES 
+5.2.1 Examine machine for cleanliness including rinse water result, dust-extraction unit and area. Check punches and dies cleanliness. 
+5.2.2 Rotate hand wheel and check that turret rotates freely. 
+5.2.3 Check that pressure wheels are free and pressure is released. 
+5.2.4 Check that sockets of upper / lower punches and dies are properly cleaned. 
+5.2.5 Fit dies using die rod. Ensure that die is flushed with the turret. Tighten die holding screws. 
+5.2.6 Fit lower punches using a thin coat of Food Grade Oil on punch barrel. Ensure that punches are ‘freely moving’ by pushing the punch tips through the die and allowing the punches to drop back freely on its own weight. Tighten lower punches with plugs using anti-turning strips. 
+5.2.7 Rotate hand wheel and check that all lower punches move freely. 
+5.2.8 Close lower punch guard covers and fit the feed frame and check the clearance with the turret. 
+5.2.9 Fit upper punches. 
+5.2.10 Fix hopper in such way, so as to give 3 - 5 mm clearance from turret for a free flow of granules to the feed frame. 
+5.2.11 Rotate hand-wheel and check that machine is free. 
+5.2.12 Fit the acrylic guard. Check the condition of oil cups for any spillage of oil, which may contaminate the product. Clean if necessary. 
+5.2.13 Check tablet and granules containers, and polythene bags, etc. for cleanliness. 
+5.2.14 Affix the Status label with Product Name, Batch Details to equipment, area and get the clearance from Q.A. 
+5.2.15 Load granules in the hopper, Rotate machine by hand to fill feed-frame and dies. 
+5.2.16 Apply pressure just so that to form the tablet. Check the weight of the tablet. Further, apply sufficient pressure to produce a required thickness of the tablet. 
+5.2.17 Put “ON” electric supply and starts the machine and check for required Physical Appearance, Thickness, Hardness, Average Weight, Weight Variation, disintegration time, friability and record in the BMR. 
+5.2.18 After setting all parameters, the pharmacist should counter check the same. 
+5.3 SETTING INSTRUCTIONS FOR SHAPED PUNCHES
+5.3.1 In case of shaped punch first fit the upper punches by taking out of taking off plates and adjusts the die accordingly so that punch insertion is free in the die. Then keeping upper punch tip in the die tightens the die holding screws. After fitting of all upper punches, refix the take-off plate. Then insert the lower punches through the bottom by ensuring the free movement of the punches and then fit with punch holding plugs and fix the anti-turning strip. 
+5.3.2 Rest all the procedure remains same as that of round shape punches. 
+5.4 TABLET PARAMETER CHECKING 
+5.4.1 After the setting is complete. Put “ON” the mains. start the machine and check for following parameters at a specified frequency. 
+5.4.2 For Physical Appearance check the surface of all tablets obtained in one rotation for the elegance and absence of defects such as sticking, picking and correctness of embossing. Appearance to be checked after every two hours and after every break. 
+5.4.3 Weight variation of 20 tablets after every 15 mins. 5.4.4 Individual weight of tablets (weight variation) initially & after every 2 hours of one full rotation initially. 
+5.4.5 Thickness of tablets in one full rotation at the beginning of the batch and then for not less than 3 tablets afterward every half an hour. 
+5.4.6 Hardness for not less than 3 tablets every half an hour. 
+5.4.7 Friability for 20 tablets at the start and afterward every two hours. 
+5.4.8 Disintegration time for 6 tablets at the start and afterward every two hours. 
+5.4.9 After the compression is complete. Put “OFF” the mains. 
+5.4.10 Affix “To be Cleaned” label. & fill the “Equipment Log Book”. 
+
+6.0 ABBREVIATIONS 
+6.1 SOP: Standard Operating Procedure 
+6.2 Q.A.: Quality Assurance 
+6.3 HOD: Head of The Department

@@ -1,0 +1,42 @@
+1.0 OBJECTIVE 
+To lay down the procedure for Operation of Rapid Mixer Granulator. 
+
+2.0 SCOPE 
+This SOP shall be applicable for Rapid Mixer Granulator capacity-600 liter in Granulation area in the Production department. 
+
+3.0 RESPONSIBILITY 
+3.1 Execution: Operator 
+3.2 Checking: Production Pharmacist & Above 
+
+4.0 ACCOUNTABILITY 
+HOD-Production / Assigned Designee 
+
+5.0 PROCEDURE 
+5.1 Production person shall ensure the cleanliness of the machine & area and ‘CLEANED’ label on it. 
+5.2 Before starting the operation production person get the line clearance from Q.A person by writing the status label with Product Name, batch Details to equipment & area. 
+5.3 Switch “ON” the mains electrical supply panel. Check the air pressure in the panel. 
+5.4 Check the air pressure in the panel. It is between 0.200 - 0.250 kg/cm2 & green color glowing in pressure indicator. 
+5.5 Press “Login” and enter password 1, 2, 3 & 4, the main screen will show in HMI (Human Machine Interface) with manual mode & auto mode. 
+5.6 For Manual Mode - Press “MANUAL MODE” two times then press “MANUAL ACTION” in HMI (Human Machine Interface), green light will glow in upper side of screen & HMI will show mixer slow, mixer fast, chopper slow, chopper fast, Ampere load, RPM (revolution / minute) ,lid open/ close & discharge valve open/ close. 
+5.7 Open the bowl lid by disengaging the clamps. 
+5.8 Engage the emergency button. 
+5.9 Fix the impeller, chopper blade & disengage the emergency button. 
+5.10 Close the discharge assembly. 
+5.11 Open the compressed air valve to supply the air to impeller & chopper, maintain adequate air pressure. Ensure that air is coming out through the vent port provided on the lid. 
+5.12 Unlock the toggle clamp & Open the lid by press open top lid & Charge the material which is to be granulated and close the lid by using HMI (Human Machine Interface) in the screen. 
+5.13 Set the timer for dry mixing in HMI (Human Machine Interface) by entering time as per BMR (batch manufacturing record). 
+5.14 Start the dry mixing by press agitator at slow or fast speed (as required) through HMI (Human Machine Interface). 
+5.15 After completion of dry mixing reset the timer as per BMR and add the paste /Binder for binding through charging port. 
+5.16 Similarly set the timer for chopper by entering in HMI (Human Machine Interface) as per BMR and operate the chopper at fast or slow speed. 
+5.17 Rack the product by the opening of the lid. Then After achieving the desired specific endpoint (Ampere Load) given in BMR, stop the operation and keep the bowl below discharging point open the discharge valve with the help of HMI. 
+5.18 Start the mixing motor at slow speed (chopper motor should be “OFF”) and discharged the material and collect in the bowl. 
+5.19 Engage the emergency push button and scrap the leftover material from inner surfaces of mixer and chopper and add into the bowl and transferred for further process. 
+5.20 Put “OFF” the mains after completion of the operation. 
+5.21 For Auto Mode – press auto mode through pressing “PREVIOUS”. 
+5.22 Enter the password of auto mode i.e 3, 4, 5 & 6. Main screen show like as manual. Feed the status as per Batch Manufacturing Record. Other things are same as manual. 
+5.23 Affix ‘To be Cleaned’ label after completion of the process from the concerned area and fill the “Equipment Log Book”. NOTE: Check operation of limit switches of the lid and discharge port before starting the operation. 
+
+6.0 ABBREVIATIONS 
+6.1 SOP: Standard Operating Procedure 
+6.2 HMI: Human Machine Interface 
+6.3 BMR: Batch Manufacturing Record
